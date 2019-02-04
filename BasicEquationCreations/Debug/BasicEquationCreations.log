@@ -1,0 +1,5 @@
+﻿  Matrix.cpp
+  Source.cpp
+c:\users\alan\documents\visual studio 2017\projects\basicequationcreations\basicequationcreations\source.cpp(112): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  BasicEquationCreations.vcxproj -> C:\Users\Alan\Documents\Visual Studio 2017\Projects\BasicEquationCreations\Debug\BasicEquationCreation.exe
